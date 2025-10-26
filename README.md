@@ -48,7 +48,6 @@ To bridge the gap between food lovers and Hanoi's diverse culinary landscape thr
 - **Interactive Maps**: Visual restaurant location display
 - **Distance Calculation**: Precise distance measurement using Haversine formula
 - **Location Services**: Expo Location API integration
-- **Nearby Discovery**: Find restaurants within specified radius
 
 ### ⭐ Reviews & Rating System
 - Comprehensive dish and restaurant rating system

@@ -10,6 +10,7 @@
 HanoiEats is a comprehensive mobile application designed to revolutionize how users discover, explore, and experience the vibrant culinary scene of Hanoi. The app serves as a digital gateway to authentic Vietnamese cuisine, providing personalized restaurant recommendations, detailed food insights, and convenient tools to enhance the local dining experience.
 
 Whether you're a local food enthusiast or a tourist eager to explore Hanoi's rich gastronomic heritage, HanoiEats connects you with the best local eateries, trending dishes, and hidden culinary gems throughout the city.
+## [LINK-DEMO](https://drive.google.com/file/d/1AiDupSxhEPS8zq-QAggT__2tQtsSWBGx/view?usp=drive_link)
 
 ## 🎯 Objectives & Core Purpose
 

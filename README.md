@@ -27,7 +27,7 @@ To bridge the gap between food lovers and Hanoi's diverse culinary landscape thr
 ## ✨ Key Features
 
 ### 🔐 User Authentication & Security
-- ![Secure registration and login system](https://res-console.cloudinary.com/dynr4mqym/thumbnails/v1/image/upload/v1761944018/U2NyZWVuc2hvdF8xNzYxNDc0ODc5X2llZXljdQ==/preview)
+- ![Secure registration and login system](https://res.cloudinary.com/dynr4mqym/image/upload/v1761944018/Screenshot_1761474879_ieeycu.png)
 
 ### 👤 Profile Management
 - Comprehensive user profile setup

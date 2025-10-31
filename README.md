@@ -27,7 +27,7 @@ To bridge the gap between food lovers and Hanoi's diverse culinary landscape thr
 ## ✨ Key Features
 
 ### 🔐 User Authentication & Security
-- ![Secure registration and login system](https://drive.google.com/file/d/1yPvP6btS-tGM1eZw7jXkn_SBlHHZQBvG/view?usp=drive_link)
+- ![Secure registration and login system](https://drive.google.com/file/d/1yPvP6btS-tGM1eZw7jXkn_SBlHHZQBvG/view?usp=drive_link.png)
 
 ### 👤 Profile Management
 - Comprehensive user profile setup

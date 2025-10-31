@@ -28,12 +28,15 @@ To bridge the gap between food lovers and Hanoi's diverse culinary landscape thr
 
 ### 🔐 User Authentication & Security
 - Secure registration and login system
-- !(https://res.cloudinary.com/dynr4mqym/image/upload/v1761944018/Screenshot_1761474879_ieeycu.png)
+  
+![Display](https://res.cloudinary.com/dynr4mqym/image/upload/v1761944018/Screenshot_1761474879_ieeycu.png)
 
 ### 👤 Profile Management
 - Comprehensive user profile setup
 - Avatar customization with Cloudinary image uploads
 - Personal information management
+
+![Display](https://res.cloudinary.com/dynr4mqym/image/upload/v1761944016/Screenshot_1761473201_wdrinu.png)
 
 ### 🍜 Advanced Discovery & Filtering
 - **Multi-dimensional Filtering**:
@@ -41,19 +44,27 @@ To bridge the gap between food lovers and Hanoi's diverse culinary landscape thr
   - Cuisine type categorization
   - Search food by name.
 
+![Display](https://res.cloudinary.com/dynr4mqym/image/upload/v1761944017/Screenshot_1761474767_urcon6.png)
+
 ### 💾 Collections & Bookmarking
 - Save favorite restaurants for quick access
 - Create custom food collections
+  
+![Display](https://res.cloudinary.com/dynr4mqym/image/upload/v1761944017/Screenshot_1761474749_ewh2mt.png)
 
 ### 📍 Location-Based Services
 - **Interactive Maps**: Visual restaurant location display
 - **Distance Calculation**: Precise distance measurement using Haversine formula
 - **Location Services**: Expo Location API integration
 
+![Display](https://res.cloudinary.com/dynr4mqym/image/upload/v1761944016/Screenshot_1761471581_eo6nf2.png)
+
 ### ⭐ Reviews & Rating System
 - Comprehensive dish and restaurant rating system
 - Photo uploads for reviews
 - Detailed review management
+
+![Display](https://res.cloudinary.com/dynr4mqym/image/upload/v1761944016/Screenshot_1761474811_etazfa.png)
 
 ## 🛠️ Technologies Used
 
